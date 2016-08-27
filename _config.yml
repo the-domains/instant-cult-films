@@ -12,5 +12,9 @@ color:
     - '#253237'
 layout_spectrum: 0.37928873114287853
 name: Instant Cult Films
+navigation:
+  - name: Ruben Gutierrez
+    url: www.rubengutierrez.net
+    type: external
 title: HELLO
 description: ':)'
