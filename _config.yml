@@ -1,4 +1,3 @@
-layout_spectrum: 0.37928873114287853
 typography_spectrum: 0.8293905362952501
 color:
   brandStrength: 0.7576119916047901
@@ -6,9 +5,11 @@ color:
   saturation: 0.7763962168246508
   rhythmicContrast: 0.37797028687782586
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.37928873114287853
 name: Instant Cult Films
+title: HELLO
