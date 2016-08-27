@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[HELLO]]></title>
         <description><![CDATA[HELLO]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/instant-cult-films/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 20:57:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Aug 2016 20:57:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/instant-cult-films/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[RubenGutierrez.net]]></title>
+            <description><![CDATA[<article><h1>RubenGutierrez.net</h1><img src="http://www.rubengutierrez.net/photo/nombre/0000/0008/full/PELMposter.jpg"></article>]]></description>
+            <link>http://www.rubengutierrez.net/home</link>
+            <guid isPermaLink="false">2c6d3a02-64e9-487a-a3db-6b70e4886d92</guid>
+            <pubDate>Fri, 26 Aug 2016 20:56:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Object Not Found]]></title>
-            <description><![CDATA[<article><h1>Object Not Found</h1><img src="http://www.objectnotfound.org/photo/nombre/0000/0001/full/mirror.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Object Not Found</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1cf77524b9ef6d553cf7d7505255102a/noop.jpg?input=http%3A%2F%2Fwww.objectnotfound.org%2Fphoto%2Fnombre%2F0000%2F0001%2Ffull%2Fmirror.jpg"></article>]]></description>
             <link>http://www.objectnotfound.org</link>
             <guid isPermaLink="false">03efc5c9-8f9d-4960-82f9-5cd6234dc73f</guid>
             <pubDate>Fri, 26 Aug 2016 20:55:46 GMT</pubDate>
