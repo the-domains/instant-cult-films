@@ -1,14 +1,20 @@
-layout_spectrum: 0.37928873114287853
-typography_spectrum: 0.8293905362952501
+layout_spectrum: 0.2674865380395204
+typography_spectrum: 0.5632975066546351
 color:
-  brandStrength: 0.7576119916047901
-  lightness: 0.7359270066954195
-  saturation: 0.7763962168246508
-  rhythmicContrast: 0.37797028687782586
+  brandStrength: 0.254623289918527
+  lightness: 0.7400015206076205
+  saturation: 0.093976566568017
+  rhythmicContrast: 0.36772133223712444
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: Instant Cult Films
+navigation:
+  - name: Ruben Gutierrez
+    url: www.rubengutierrez.net
+    type: external
+title: HELLO
+description: ':)'
